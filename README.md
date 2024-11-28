@@ -1,1 +1,1 @@
-# SnipClip
+# SnapClip
